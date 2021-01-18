@@ -10,7 +10,7 @@ import pandas as pd
 import time
 import math
 
-#CSC360 Project 2: Amazon Product Review Scraping
+# Amazon Product Review Scraping:
 #	This program goes to the specified webpage of a certain Amazon product.
 #	It then scrapes the pages of product reviews to obtain data that will be
 #	used to estimate the credibility of each reviewer. The program will then use
