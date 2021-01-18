@@ -1,3 +1,5 @@
+# Contributions by Vivek Bharadwaj, Abhi Vempati, Daniel Ortega, Lakaylah Gage, Joe DeVizio
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
