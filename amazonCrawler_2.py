@@ -10,12 +10,6 @@ import pandas as pd
 import time
 import math
 
-# Amazon Product Review Scraping:
-#	This program goes to the specified webpage of a certain Amazon product.
-#	It then scrapes the pages of product reviews to obtain data that will be
-#	used to estimate the credibility of each reviewer. The program will then use
-#	these results to create a new adjusted average score (star rating) for the given product.
-
 profArr = []  #List of profile urls
 ratingArr = []  #List of reviewer star ratings
 info_list = []  #List of all desired information, including the number of helpful votes and reviews of each reviewer
