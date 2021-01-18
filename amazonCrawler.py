@@ -41,8 +41,8 @@ ratingArr = [] # array of each rating
 info_list = [] 
 currPage = 1
 
-# Open up firefox browser
-driver = webdriver.Chrome(executable_path="/Users/vivekbharadwaj/Desktop/ComputerNetworking/Project2/networkingprojects/chromedriver")
+# Open up firefox browser (enter your executable path)
+#driver = webdriver.Chrome(executable_path="/Users/vivekbharadwaj/Desktop/ComputerNetworking/Project2/networkingprojects/chromedriver")
 
 
 # Get item link from user input
